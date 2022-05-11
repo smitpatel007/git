@@ -4,7 +4,7 @@
 <head>
 	<title>data</title>
 </head>
-<body>        <form action="https://smitpatel3626@gmail.com">
+<body>         <form action="https://smitpatel3626@gmail.com">
                  first name:<input type="text" name=""><br><br><br>        	
                   last name:<input type="text" name=""><br><br><br>           
                         DOB:<input type="date" name=""><br><br><br>
@@ -20,16 +20,9 @@
                       racing:<input type="checkbox" name=""><br><br><br>
                       gaming:<input type="checkbox" name=""><br><br><br>
                       traveling:<input type="checkbox" name=""><br><br><br>
-
-
-
-
-
-
                  <button>submit</button>
                  <button>reset</button>
-          
-         </form>            
+                 </form>            
 
 </body>
 </html>
